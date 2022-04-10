@@ -1,0 +1,21 @@
+.grand-box{
+    width: 751px;
+    height: 489px;
+    background-color: #6FCF97;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    font-weight: 800;
+    width: 293px;
+    height: 116px;
+    font-size: 48px;
+    font-family: 'Raleway', sans-serif;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
